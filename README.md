@@ -78,7 +78,7 @@ lib/
 
 
 
-📬 Contact / Author
+📬 Author
 
 Shubham Chaudhari 🧑🏻‍💻😎
 

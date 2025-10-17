@@ -30,7 +30,7 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 ## Screenshots
 
 ```
- ![X Win ](screenshots/.gitkeep/X-Win.jpg)
+ ![X Win ](screens/screenshots/.gitkeep/X-Win.jpg)
 ---
 
 ## 🎨 Unique Features Included

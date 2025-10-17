@@ -22,6 +22,26 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 - Flutter (Dart)
 - State Management: setState
 
+
+🧩 Project Structure (short)
+lib/
+├─ main.dart
+
+├─ screens/
+
+│  ├─ home_screen.dart
+
+│  └─ game_screen.dart
+
+├─ widgets/
+
+│  └─ board_tile.dart
+
+└─ utils/
+
+   └─ game_logic.dart
+   
+
 ## How to Run
 1. Clone the repository
 2. Run `flutter pub get`

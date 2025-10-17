@@ -82,9 +82,10 @@ lib/
 
 Shubham Chaudhari 🧑🏻‍💻😎
 
-GitHub: ![@Github](https://github.com/Shubhamchaudhari1807)
+GitHub: [@Github](https://github.com/Shubhamchaudhari1807)
 
-LinkedIn: ![@LinkedIn](https://www.linkedin.com/in/shubhamchaudhari1807/)
+LinkedIn: [@LinkedIn](https://www.linkedin.com/in/shubhamchaudhari1807/)
 
-Porrfolio: ![@Portfolio](https://shubhamportfoliosite.netlify.app/)
+Porrfolio: [@Portfolio](https://shubhamportfoliosite.netlify.app/)
+
 Email: chaudharishubham1807@gmail.com

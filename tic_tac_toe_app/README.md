@@ -4,12 +4,19 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 
 ## Features
 ✅ Two-player gameplay on same device
+
 ✅ Clean, intuitive UI
+
 ✅ Win detection with animations
+
 ✅ Draw detection
+
 ✅ Score tracking
+
 ✅ Restart game functionality
+
 ✅ Smooth animations and transitions
+
 
 ## Tech Stack
 - Flutter (Dart)

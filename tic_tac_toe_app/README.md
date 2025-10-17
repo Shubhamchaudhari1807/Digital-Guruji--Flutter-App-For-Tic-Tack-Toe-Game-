@@ -29,7 +29,7 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 
 ## Screenshots
 
-```
+
 ## 📸 Screenshots
 
 ### 🏆 X Wins Screen
@@ -46,6 +46,6 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 5. **Current Player Indicator** - Visual indicator with colored dot
 6. **Reset Scores Button** - Start fresh with score reset
 
----
+
 
 

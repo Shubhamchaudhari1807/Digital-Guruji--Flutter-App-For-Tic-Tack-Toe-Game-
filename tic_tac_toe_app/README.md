@@ -30,7 +30,11 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 ## Screenshots
 
 ```
- ![X Win ](screens/screenshots//X-Win.jpg)
+## 📸 Screenshots
+
+### 🏆 X Wins Screen
+![X Win Screen](https://github.com/Shubhamchaudhari1807/Digital-Guruji--Flutter-App-For-Tic-Tack-Toe-Game-/raw/main/tic_tac_toe_app/lib/screens/screenshots/.gitkeep/X-Win.jpg)
+
 ---
 
 ## 🎨 Unique Features Included
@@ -44,4 +48,4 @@ A simple and elegant two-player Tic Tac Toe game built with Flutter.
 
 ---
 
-## ✅ Pre-Submission Checklist
+
